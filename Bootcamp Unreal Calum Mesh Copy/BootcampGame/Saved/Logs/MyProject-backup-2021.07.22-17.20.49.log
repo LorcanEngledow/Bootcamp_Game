@@ -1,0 +1,1184 @@
+﻿Log file open, 07/22/21 16:58:39
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173861
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername="Elf Yamada" -epicuserid=a08f3369e31941fabc65343f38a36f3b -epiclocale=en
+LogInit: Base Directory: G:/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.22-15.58.39:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.22-15.58.39:731][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.22-15.58.39:731][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.22-15.58.39:738][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.22-15.58.39:738][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.07.22-15.58.39:739][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.22-15.58.39:739][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.22-15.58.39:739][  0]LogHAL: Display: Platform has ~ 32 GB [34241613824 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.22-15.58.39:739][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.22-15.58.39:739][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.22-15.58.39:739][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.07.22-15.58.39:740][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.22-15.58.39:741][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.22-15.58.39:741][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.22-15.58.39:741][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.22-15.58.39:741][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.22-15.58.39:741][  0]LogInit: Computer: DESKTOP-6QENAFN
+[2021.07.22-15.58.39:741][  0]LogInit: User: cjkcr
+[2021.07.22-15.58.39:741][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.07.22-15.58.39:741][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.22-15.58.39:741][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.07.22-15.58.39:741][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.22-15.58.39:741][  0]LogMemory: Process Physical Memory: 120.02 MB used, 120.02 MB peak
+[2021.07.22-15.58.39:741][  0]LogMemory: Process Virtual Memory: 97.95 MB used, 97.95 MB peak
+[2021.07.22-15.58.39:741][  0]LogMemory: Physical Memory: 15084.94 MB used,  17570.41 MB free, 32655.35 MB total
+[2021.07.22-15.58.39:741][  0]LogMemory: Virtual Memory: 5187.17 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2021.07.22-15.58.40:060][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.22-15.58.40:079][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.22-15.58.40:079][  0]LogInit: Using OS detected language (en-GB).
+[2021.07.22-15.58.40:079][  0]LogInit: Using OS detected locale (en-GB).
+[2021.07.22-15.58.40:081][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.07.22-15.58.40:211][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.22-15.58.40:254][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.22-15.58.40:254][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.22-15.58.40:359][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.22-15.58.40:359][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.22-15.58.40:359][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.22-15.58.40:359][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.22-15.58.40:433][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.07.22-15.58.40:433][  0]LogD3D11RHI:       5980/0/16327 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.07.22-15.58.40:435][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.22-15.58.40:435][  0]LogD3D11RHI:       0/0/16327 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.22-15.58.40:435][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.22-15.58.40:445][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.22-15.58.40:445][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.22-15.58.40:445][  0]LogWindows: EnumDisplayDevices:
+[2021.07.22-15.58.40:446][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.07.22-15.58.40:446][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.07.22-15.58.40:446][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.07.22-15.58.40:446][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.07.22-15.58.40:446][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.22-15.58.40:446][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.07.22-15.58.40:446][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.07.22-15.58.40:446][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.07.22-15.58.40:446][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.07.22-15.58.40:496][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.22-15.58.40:496][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.22-15.58.40:496][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.22-15.58.40:497][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2021.07.22-15.58.40:510][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.22-15.58.40:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.22-15.58.40:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.22-15.58.40:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.22-15.58.40:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.22-15.58.40:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.22-15.58.40:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.22-15.58.40:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.22-15.58.40:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.22-15.58.40:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.22-15.58.40:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.22-15.58.40:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.22-15.58.40:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.22-15.58.40:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.22-15.58.40:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.22-15.58.40:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.22-15.58.40:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.22-15.58.40:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.22-15.58.40:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.22-15.58.40:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.22-15.58.40:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.22-15.58.40:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.22-15.58.40:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.22-15.58.40:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.22-15.58.40:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.22-15.58.40:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.22-15.58.40:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.22-15.58.40:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.22-15.58.40:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.22-15.58.40:891][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.22-15.58.40:896][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.22-15.58.40:936][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Intermediate/Shaders/WorkingDirectory/29364/).
+[2021.07.22-15.58.40:936][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cjkcr/AppData/Local/Temp/UnrealShaderWorkingDir/956AAA0E4E152BA08C6AE480D92D5053/'.
+[2021.07.22-15.58.40:936][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.07.22-15.58.40:936][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.22-15.58.40:936][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.22-15.58.41:546][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.22-15.58.41:583][  0]LogDerivedDataCache: Loaded boot cache 0.04s 75MB C:/Users/cjkcr/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.07.22-15.58.41:584][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cjkcr/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.07.22-15.58.41:584][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.22-15.58.41:584][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.22-15.58.41:584][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.22-15.58.41:584][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.22-15.58.41:593][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.22-15.58.41:593][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.22-15.58.41:593][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.22-15.58.41:594][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cjkcr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.22-15.58.41:594][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.22-15.58.41:594][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.22-15.58.41:635][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.22-15.58.41:636][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.22-15.58.41:653][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.07.22-15.58.41:845][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.22-15.58.41:929][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.22-15.58.41:929][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.22-15.58.41:929][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.22-15.58.41:929][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.22-15.58.41:929][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.22-15.58.41:946][  0]LogNetVersion: MyProject 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 709303259)
+[2021.07.22-15.58.42:250][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001AD09C04380), frame # 0
+[2021.07.22-15.58.42:250][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AD09B52840), frame # 0
+[2021.07.22-15.58.42:251][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AD09BC0800), frame # 0
+[2021.07.22-15.58.42:287][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.030783 seconds
+[2021.07.22-15.58.42:291][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.07.22-15.58.42:291][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.07.22-15.58.42:291][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.22-15.58.42:539][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.22-15.58.42:543][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.22-15.58.42:600][  0]SourceControl: Source control is disabled
+[2021.07.22-15.58.42:600][  0]SourceControl: Source control is disabled
+[2021.07.22-15.58.42:603][  0]SourceControl: Source control is disabled
+[2021.07.22-15.58.42:606][  0]SourceControl: Source control is disabled
+[2021.07.22-15.58.42:611][  0]SourceControl: Source control is disabled
+[2021.07.22-15.58.42:808][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.22-15.58.42:826][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.22-15.58.42:826][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.22-15.58.42:871][  0]LogOcInput: OculusInput pre-init called
+[2021.07.22-15.58.42:879][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.22-15.58.42:879][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.22-15.58.42:934][  0]LogEngine: Initializing Engine...
+[2021.07.22-15.58.42:935][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.22-15.58.42:935][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.22-15.58.42:936][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.22-15.58.43:019][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.22-15.58.43:025][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.22-15.58.43:025][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AD0F78BC00), frame # 0
+[2021.07.22-15.58.43:025][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AD0F7C6340), frame # 0
+[2021.07.22-15.58.43:036][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.22-15.58.43:036][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.22-15.58.43:036][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.22-15.58.43:036][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.22-15.58.43:036][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.22-15.58.43:036][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.22-15.58.43:036][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.22-15.58.43:036][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.22-15.58.43:036][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.22-15.58.43:036][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.22-15.58.43:469][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.22-15.58.43:469][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.22-15.58.43:469][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.22-15.58.43:469][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.22-15.58.43:469][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.07.22-15.58.43:469][  0]LogAudioMixer: Display: 5: BackRight
+[2021.07.22-15.58.43:469][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.07.22-15.58.43:469][  0]LogAudioMixer: Display: 7: SideRight
+[2021.07.22-15.58.44:164][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.22-15.58.44:166][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.22-15.58.44:168][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.22-15.58.44:168][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.22-15.58.44:169][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.22-15.58.44:170][  0]LogInit: FAudioDevice initialized.
+[2021.07.22-15.58.44:170][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.22-15.58.44:234][  0]LogDerivedDataCache: Saved boot cache 0.06s 75MB C:/Users/cjkcr/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.07.22-15.58.44:234][  0]LogInit: Texture streaming: Enabled
+[2021.07.22-15.58.44:246][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.22-15.58.44:246][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.22-15.58.44:248][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.22-15.58.44:281][  0]LogInit: Transaction tracking system initialized
+[2021.07.22-15.58.44:299][  0]BlueprintLog: New page: Editor Load
+[2021.07.22-15.58.44:346][  0]LocalizationService: Localization service is disabled
+[2021.07.22-15.58.44:451][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.07.22-15.58.44:451][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.22-15.58.44:540][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Content/' took 0.01s
+[2021.07.22-15.58.44:663][  0]SourceControl: Source control is disabled
+[2021.07.22-15.58.44:664][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.898
+[2021.07.22-15.58.44:664][  0]Cmd: MAP LOAD FILE="C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Content/StarterContent/Maps/Bootcamp_LevelMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.22-15.58.44:664][  0]LightingResults: New page: Lighting Build
+[2021.07.22-15.58.44:665][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.22-15.58.44:665][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-15.58.44:665][  0]MapCheck: New page: Map Check
+[2021.07.22-15.58.44:665][  0]LightingResults: New page: Lighting Build
+[2021.07.22-15.58.44:688][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AD0F78BC00), frame # 0
+[2021.07.22-15.58.44:688][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AD0F7C6340), frame # 0
+[2021.07.22-15.58.44:689][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.07.22-15.58.44:832][  0]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2890' invalid (240 verts, 0 indices).
+[2021.07.22-15.58.44:832][  0]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2890.BodySetup_0 when we are unable to.
+[2021.07.22-15.58.44:838][  0]LogAIModule: Creating AISystem for world Bootcamp_LevelMap
+[2021.07.22-15.58.44:838][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AD019EF000), frame # 0
+[2021.07.22-15.58.44:838][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AD018BBB00), frame # 0
+[2021.07.22-15.58.44:847][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.22-15.58.44:859][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.07.22-15.58.44:859][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.22-15.58.44:859][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
+[2021.07.22-15.58.44:859][  0]LogFileHelpers: Loading map 'Bootcamp_LevelMap' took 0.195
+[2021.07.22-15.58.44:861][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.094
+[2021.07.22-15.58.44:969][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-15.58.44:975][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-15.58.44:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-15.58.44:986][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-15.58.44:990][  0]LogCollectionManager: Loaded 0 collections in 0.000655 seconds
+[2021.07.22-15.58.45:003][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Collections/' took 0.00s
+[2021.07.22-15.58.45:003][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Content/Developers/cjkcr/Collections/' took 0.00s
+[2021.07.22-15.58.45:003][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Content/Collections/' took 0.00s
+[2021.07.22-15.58.45:003][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 3427 classes and 821 folders.
+[2021.07.22-15.58.45:005][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.22-15.58.45:037][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.22-15.58.45:038][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.07.22-15.58.45:057][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.22-15.58.45:057][  0]LogLoad: (Engine Initialization) Total time: 6.29 seconds
+[2021.07.22-15.58.45:057][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.22-15.58.45:090][  0]LogAssetRegistry: Asset discovery search completed in 3.4375 seconds
+[2021.07.22-15.58.45:093][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.07.22-15.58.45:094][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.22-15.58.45:100][  0]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.22-15.58.45:102][  0]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.22-15.58.45:105][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.22-15.58.45:188][  1]LogRenderer: Reallocating scene render targets to support 1104x620 Format 10 NumSamples 1 (Frame:1).
+[2021.07.22-15.59.23:516][631]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-15.59.27:395][ 85]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-15.59.27:803][133]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-15.59.27:936][148]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.07.22-16.00.38:711][ 54]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.07.22-16.02.24:750][361]LogStaticMesh: Building static mesh SM_Crate01...
+[2021.07.22-16.02.24:760][361]LogSlate: Took 0.003577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.22-16.02.24:800][361]LogStaticMesh: Built static mesh [0.05s] /Game/scifi_kitbash/meshes/SM_Crate01.SM_Crate01
+[2021.07.22-16.02.24:831][361]LogActorFactory: Actor Factory created SM_Crate01
+[2021.07.22-16.02.25:346][418]LogActorFactory: Actor Factory created SM_Crate01
+[2021.07.22-16.02.26:132][492]LogActorFactory: Actor Factory created SM_Crate03
+[2021.07.22-16.02.26:550][539]LogActorFactory: Actor Factory created SM_Crate03
+[2021.07.22-16.02.27:173][601]LogStaticMesh: Building static mesh SM_Crate02...
+[2021.07.22-16.02.27:210][601]LogStaticMesh: Built static mesh [0.04s] /Game/scifi_kitbash/meshes/SM_Crate02.SM_Crate02
+[2021.07.22-16.02.27:371][615]LogActorFactory: Actor Factory created SM_Crate02
+[2021.07.22-16.02.28:115][689]LogActorFactory: Actor Factory created SM_Crate02
+[2021.07.22-16.02.32:189][171]Cmd: TRANSACTION UNDO
+[2021.07.22-16.02.32:189][171]LogEditorTransaction: Undo Create Actors
+[2021.07.22-16.02.32:210][171]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2890' invalid (240 verts, 0 indices).
+[2021.07.22-16.02.32:210][171]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2890.BodySetup_0 when we are unable to.
+[2021.07.22-16.02.32:461][182]Cmd: TRANSACTION UNDO
+[2021.07.22-16.02.32:461][182]LogEditorTransaction: Undo Create Actors
+[2021.07.22-16.02.32:479][182]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2890' invalid (240 verts, 0 indices).
+[2021.07.22-16.02.32:479][182]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2890.BodySetup_0 when we are unable to.
+[2021.07.22-16.02.32:756][199]Cmd: TRANSACTION UNDO
+[2021.07.22-16.02.32:756][199]LogEditorTransaction: Undo Create Actors
+[2021.07.22-16.02.32:769][199]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2890' invalid (240 verts, 0 indices).
+[2021.07.22-16.02.32:769][199]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2890.BodySetup_0 when we are unable to.
+[2021.07.22-16.02.49:670][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.04.09:174][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.04.25:366][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor29)
+[2021.07.22-16.04.26:278][190]Cmd: DELETE
+[2021.07.22-16.04.26:278][190]Cmd: ACTOR DELETE
+[2021.07.22-16.04.26:285][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.22-16.04.26:295][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.22-16.04.26:296][190]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.07.22-16.04.26:716][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.04.27:082][280]Cmd: DELETE
+[2021.07.22-16.04.27:082][280]Cmd: ACTOR DELETE
+[2021.07.22-16.04.27:085][280]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.22-16.04.27:093][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.07.22-16.04.27:094][280]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.07.22-16.08.44:916][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.22-16.08.44:953][181]LogSavePackage: Moving 'C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Bootcamp_LevelMap_Auto19A359F5941037E7AFFD8A18C59AD087D.tmp' to 'C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Autosaves/Game/StarterContent/Maps/Bootcamp_LevelMap_Auto1.umap'
+[2021.07.22-16.08.44:955][181]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Bootcamp_LevelMap' took 0.048
+[2021.07.22-16.08.44:955][181]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2021.07.22-16.18.45:266][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.22-16.18.45:268][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Bootcamp_LevelMap' took 0.010
+[2021.07.22-16.28.45:834][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.07.22-16.28.45:836][101]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Bootcamp_LevelMap' took 0.010
+[2021.07.22-16.38.46:180][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.07.22-16.38.46:181][902]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Bootcamp_LevelMap' took 0.010
+[2021.07.22-16.42.47:144][711]LogRenderer: Reallocating scene render targets to support 2172x808 Format 10 NumSamples 1 (Frame:62164).
+[2021.07.22-16.43.09:014][123]LogActorFactory: Actor Factory created SM_Floor02
+[2021.07.22-16.43.09:539][178]LogActorFactory: Actor Factory created SM_Floor02
+[2021.07.22-16.43.24:559][820]LogActorFactory: Actor Factory created SM_Crate01
+[2021.07.22-16.43.28:913][259]LogActorFactory: Actor Factory created SM_Crate03
+[2021.07.22-16.43.29:660][324]LogActorFactory: Actor Factory created SM_Crate03
+[2021.07.22-16.43.30:409][397]LogActorFactory: Actor Factory created SM_Crate02
+[2021.07.22-16.43.31:111][468]LogActorFactory: Actor Factory created SM_Crate02
+[2021.07.22-16.43.31:515][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate03)
+[2021.07.22-16.43.32:311][604]Cmd: DELETE
+[2021.07.22-16.43.32:311][604]Cmd: ACTOR DELETE
+[2021.07.22-16.43.32:314][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.22-16.43.32:324][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.07.22-16.43.32:325][604]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.22-16.43.42:982][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.44.06:610][627]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-16.44.08:296][810]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-16.44.08:653][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor29)
+[2021.07.22-16.45.21:547][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate02)
+[2021.07.22-16.45.38:037][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor31)
+[2021.07.22-16.45.45:910][140]Cmd: DELETE
+[2021.07.22-16.45.45:910][140]Cmd: ACTOR DELETE
+[2021.07.22-16.45.45:912][140]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.22-16.45.45:922][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.07.22-16.45.45:925][140]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.07.22-16.45.48:679][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate02)
+[2021.07.22-16.45.54:040][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor30)
+[2021.07.22-16.46.00:689][812]Cmd: TRANSACTION UNDO
+[2021.07.22-16.46.00:689][812]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.46.06:006][408]Cmd: TRANSACTION UNDO
+[2021.07.22-16.46.06:006][408]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.46.11:636][ 37]Cmd: TRANSACTION UNDO
+[2021.07.22-16.46.11:636][ 37]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.46.13:226][188]Cmd: TRANSACTION UNDO
+[2021.07.22-16.46.13:226][188]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.46.22:386][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.46.24:194][436]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-16.46.24:860][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.46.38:283][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate02)
+[2021.07.22-16.46.43:289][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.46.49:145][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate02)
+[2021.07.22-16.47.00:087][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.47.27:076][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.47.39:668][296]Cmd: TRANSACTION UNDO
+[2021.07.22-16.47.39:668][296]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.47.46:905][ 82]Cmd: TRANSACTION UNDO
+[2021.07.22-16.47.46:905][ 82]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.47.52:118][660]Cmd: TRANSACTION UNDO
+[2021.07.22-16.47.52:118][660]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.47.55:936][ 77]Cmd: TRANSACTION UNDO
+[2021.07.22-16.47.55:936][ 77]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.48.15:775][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.48.24:648][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor30)
+[2021.07.22-16.48.26:617][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-16.48.47:109][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor30)
+[2021.07.22-16.48.47:842][  2]Cmd: DELETE
+[2021.07.22-16.48.47:842][  2]Cmd: ACTOR DELETE
+[2021.07.22-16.48.47:845][  2]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.22-16.48.47:855][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.22-16.48.47:856][  2]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.07.22-16.48.48:317][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor31)
+[2021.07.22-16.49.16:021][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor29)
+[2021.07.22-16.49.19:561][656]Cmd: TRANSACTION UNDO
+[2021.07.22-16.49.19:561][656]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.49.19:585][656]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2890' invalid (240 verts, 0 indices).
+[2021.07.22-16.49.19:585][656]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2890.BodySetup_0 when we are unable to.
+[2021.07.22-16.49.47:466][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor30)
+[2021.07.22-16.50.43:392][528]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.07.22-16.50.43:398][528]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_12' invalid (264 verts, 0 indices).
+[2021.07.22-16.50.43:398][528]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_12.BodySetup_0 when we are unable to.
+[2021.07.22-16.50.47:010][931]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_26' invalid (264 verts, 0 indices).
+[2021.07.22-16.50.47:010][931]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_26.BodySetup_0 when we are unable to.
+[2021.07.22-16.50.52:367][515]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_40' invalid (264 verts, 0 indices).
+[2021.07.22-16.50.52:367][515]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_40.BodySetup_0 when we are unable to.
+[2021.07.22-16.50.57:340][ 82]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_55' invalid (264 verts, 0 indices).
+[2021.07.22-16.50.57:341][ 82]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_55.BodySetup_0 when we are unable to.
+[2021.07.22-16.50.58:667][226]LogSlate: Took 0.004781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.22-16.51.01:517][536]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2021.07.22-16.51.01:543][536]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.07.22-16.51.01:543][536]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.07.22-16.51.01:543][536]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.07.22-16.51.01:543][536]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.07.22-16.51.01:543][536]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.07.22-16.51.01:543][536]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.07.22-16.51.01:543][536]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.07.22-16.51.01:565][536]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.07.22-16.51.01:591][536]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 36
+[2021.07.22-16.51.01:591][536]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 32
+[2021.07.22-16.51.01:591][536]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 28
+[2021.07.22-16.51.01:591][536]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 24
+[2021.07.22-16.51.01:591][536]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2021.07.22-16.51.01:591][536]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2021.07.22-16.51.01:591][536]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.07.22-16.51.01:619][536]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2021.07.22-16.51.01:640][536]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2021.07.22-16.51.01:680][536]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2021.07.22-16.51.01:739][536]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.07.22-16.51.01:753][536]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.07.22-16.51.01:770][536]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.07.22-16.51.01:788][536]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.07.22-16.51.01:812][536]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2021.07.22-16.51.01:827][536]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.07.22-16.51.01:844][536]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.07.22-16.51.01:864][536]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.07.22-16.51.02:604][599]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 198
+[2021.07.22-16.51.02:673][603]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 188
+[2021.07.22-16.51.02:751][609]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 178
+[2021.07.22-16.51.02:764][610]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 168
+[2021.07.22-16.51.02:794][612]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 158
+[2021.07.22-16.51.02:794][612]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 148
+[2021.07.22-16.51.03:365][631]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 138
+[2021.07.22-16.51.03:509][640]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 128
+[2021.07.22-16.51.03:550][643]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 118
+[2021.07.22-16.51.03:716][656]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 108
+[2021.07.22-16.51.03:833][664]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 98
+[2021.07.22-16.51.03:861][666]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 89
+[2021.07.22-16.51.05:110][747]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.07.22-16.51.05:264][759]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 81
+[2021.07.22-16.51.05:264][759]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 74
+[2021.07.22-16.51.05:338][764]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 67
+[2021.07.22-16.51.05:473][775]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 61
+[2021.07.22-16.51.05:473][775]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 55
+[2021.07.22-16.51.05:839][798]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 50
+[2021.07.22-16.51.05:944][806]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 45
+[2021.07.22-16.51.06:230][829]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 41
+[2021.07.22-16.51.06:231][829]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 37
+[2021.07.22-16.51.06:231][829]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 33
+[2021.07.22-16.51.06:252][830]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 29
+[2021.07.22-16.51.06:806][867]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2021.07.22-16.51.06:818][868]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2021.07.22-16.51.06:832][869]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 21
+[2021.07.22-16.51.06:980][877]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2021.07.22-16.51.06:996][878]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2021.07.22-16.51.07:100][886]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2021.07.22-16.51.07:175][890]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2021.07.22-16.51.07:231][895]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2021.07.22-16.51.07:345][905]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.07.22-16.51.07:368][906]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2021.07.22-16.51.07:368][906]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.07.22-16.51.07:493][914]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2021.07.22-16.51.07:535][916]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2021.07.22-16.51.07:535][916]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.07.22-16.51.07:549][917]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.07.22-16.51.07:602][921]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.07.22-16.51.07:616][922]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.22-16.51.07:665][922]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.07.22-16.51.10:967][297]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.07.22-16.51.10:968][297]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2021.07.22-16.51.19:812][322]Cmd: EDCALLBACK SURFPROPS
+[2021.07.22-16.51.37:865][336]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_70' invalid (264 verts, 0 indices).
+[2021.07.22-16.51.37:865][336]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_70.BodySetup_0 when we are unable to.
+[2021.07.22-16.51.49:439][689]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_85' invalid (264 verts, 0 indices).
+[2021.07.22-16.51.49:439][689]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_85.BodySetup_0 when we are unable to.
+[2021.07.22-16.51.55:946][466]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_100' invalid (264 verts, 0 indices).
+[2021.07.22-16.51.55:946][466]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_100.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.01:632][112]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_115' invalid (264 verts, 0 indices).
+[2021.07.22-16.52.01:632][112]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_115.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.06:945][723]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_130' invalid (264 verts, 0 indices).
+[2021.07.22-16.52.06:945][723]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_130.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.07:991][845]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_145' invalid (264 verts, 0 indices).
+[2021.07.22-16.52.07:992][845]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_145.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.16:796][818]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_160' invalid (264 verts, 0 indices).
+[2021.07.22-16.52.16:796][818]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_160.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.17:112][853]Cmd: TRANSACTION UNDO
+[2021.07.22-16.52.17:112][853]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.52.17:120][853]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_145' invalid (264 verts, 0 indices).
+[2021.07.22-16.52.17:120][853]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_145.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.17:120][853]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2021.07.22-16.52.17:120][853]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2021.07.22-16.52.17:120][853]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2021.07.22-16.52.28:597][126]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_175' invalid (280 verts, 0 indices).
+[2021.07.22-16.52.28:597][126]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_175.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.34:972][853]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_192' invalid (280 verts, 0 indices).
+[2021.07.22-16.52.34:972][853]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_192.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.38:007][208]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_207' invalid (280 verts, 0 indices).
+[2021.07.22-16.52.38:007][208]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_207.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.41:287][595]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_222' invalid (280 verts, 0 indices).
+[2021.07.22-16.52.41:287][595]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_222.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.43:667][869]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_238' invalid (280 verts, 0 indices).
+[2021.07.22-16.52.43:667][869]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_238.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.46:271][175]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_254' invalid (280 verts, 0 indices).
+[2021.07.22-16.52.46:271][175]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_254.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.50:597][649]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_270' invalid (280 verts, 0 indices).
+[2021.07.22-16.52.50:597][649]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_270.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.51:752][784]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_286' invalid (280 verts, 0 indices).
+[2021.07.22-16.52.51:752][784]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_286.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.52:690][893]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_302' invalid (280 verts, 0 indices).
+[2021.07.22-16.52.52:690][893]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_302.BodySetup_0 when we are unable to.
+[2021.07.22-16.52.56:975][378]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_318' invalid (280 verts, 0 indices).
+[2021.07.22-16.52.56:975][378]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_318.BodySetup_0 when we are unable to.
+[2021.07.22-16.53.07:489][605]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_334' invalid (280 verts, 0 indices).
+[2021.07.22-16.53.07:489][605]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_334.BodySetup_0 when we are unable to.
+[2021.07.22-16.53.09:122][797]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_350' invalid (280 verts, 0 indices).
+[2021.07.22-16.53.09:122][797]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_350.BodySetup_0 when we are unable to.
+[2021.07.22-16.53.28:634][986]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-16.53.34:733][658]Cmd: EDCALLBACK SURFPROPS
+[2021.07.22-16.53.48:244][202]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_366' invalid (280 verts, 0 indices).
+[2021.07.22-16.53.48:244][202]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_366.BodySetup_0 when we are unable to.
+[2021.07.22-16.54.15:655][348]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.07.22-16.54.15:662][348]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_382' invalid (320 verts, 0 indices).
+[2021.07.22-16.54.15:662][348]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_382.BodySetup_0 when we are unable to.
+[2021.07.22-16.54.18:053][630]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_398' invalid (320 verts, 0 indices).
+[2021.07.22-16.54.18:053][630]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_398.BodySetup_0 when we are unable to.
+[2021.07.22-16.54.23:200][211]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_414' invalid (320 verts, 0 indices).
+[2021.07.22-16.54.23:200][211]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_414.BodySetup_0 when we are unable to.
+[2021.07.22-16.54.25:797][519]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_430' invalid (320 verts, 0 indices).
+[2021.07.22-16.54.25:797][519]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_430.BodySetup_0 when we are unable to.
+[2021.07.22-16.54.30:053][997]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_446' invalid (280 verts, 0 indices).
+[2021.07.22-16.54.30:053][997]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_446.BodySetup_0 when we are unable to.
+[2021.07.22-16.54.33:677][427]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_462' invalid (336 verts, 0 indices).
+[2021.07.22-16.54.33:677][427]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_462.BodySetup_0 when we are unable to.
+[2021.07.22-16.54.38:319][960]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_478' invalid (336 verts, 0 indices).
+[2021.07.22-16.54.38:319][960]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_478.BodySetup_0 when we are unable to.
+[2021.07.22-16.54.43:506][547]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_494' invalid (336 verts, 0 indices).
+[2021.07.22-16.54.43:506][547]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_494.BodySetup_0 when we are unable to.
+[2021.07.22-16.55.35:387][634]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2021.07.22-16.55.37:746][914]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_510' invalid (336 verts, 0 indices).
+[2021.07.22-16.55.37:746][914]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_510.BodySetup_0 when we are unable to.
+[2021.07.22-16.55.38:699][ 25]Cmd: TRANSACTION UNDO
+[2021.07.22-16.55.38:699][ 25]LogEditorTransaction: Undo Move Actors
+[2021.07.22-16.55.38:707][ 25]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_494' invalid (336 verts, 0 indices).
+[2021.07.22-16.55.38:707][ 25]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_494.BodySetup_0 when we are unable to.
+[2021.07.22-16.55.41:164][280]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_526' invalid (336 verts, 0 indices).
+[2021.07.22-16.55.41:164][280]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_526.BodySetup_0 when we are unable to.
+[2021.07.22-16.55.48:522][120]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_542' invalid (336 verts, 0 indices).
+[2021.07.22-16.55.48:522][120]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_542.BodySetup_0 when we are unable to.
+[2021.07.22-16.56.03:346][802]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_558' invalid (336 verts, 0 indices).
+[2021.07.22-16.56.03:346][802]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_558.BodySetup_0 when we are unable to.
+[2021.07.22-16.56.09:874][557]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_574' invalid (328 verts, 0 indices).
+[2021.07.22-16.56.09:874][557]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_574.BodySetup_0 when we are unable to.
+[2021.07.22-16.56.18:046][522]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-16.56.49:444][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-16.56.51:615][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate02)
+[2021.07.22-16.58.00:311][158]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.07.22-16.58.00:317][158]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_590' invalid (352 verts, 0 indices).
+[2021.07.22-16.58.00:317][158]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_590.BodySetup_0 when we are unable to.
+[2021.07.22-16.58.07:284][980]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_606' invalid (352 verts, 0 indices).
+[2021.07.22-16.58.07:284][980]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_606.BodySetup_0 when we are unable to.
+[2021.07.22-16.58.16:440][974]LogActorFactory: Actor Factory created SM_Crate03
+[2021.07.22-16.58.18:111][137]LogActorFactory: Actor Factory created SM_Crate03
+[2021.07.22-16.58.30:743][523]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_622' invalid (352 verts, 0 indices).
+[2021.07.22-16.58.30:743][523]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_622.BodySetup_0 when we are unable to.
+[2021.07.22-16.58.35:977][142]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_638' invalid (352 verts, 0 indices).
+[2021.07.22-16.58.35:977][142]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_638.BodySetup_0 when we are unable to.
+[2021.07.22-16.58.51:325][943]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_654' invalid (352 verts, 0 indices).
+[2021.07.22-16.58.51:325][943]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_654.BodySetup_0 when we are unable to.
+[2021.07.22-16.58.57:160][612]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_670' invalid (360 verts, 0 indices).
+[2021.07.22-16.58.57:160][612]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_670.BodySetup_0 when we are unable to.
+[2021.07.22-16.58.58:342][750]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_687' invalid (352 verts, 0 indices).
+[2021.07.22-16.58.58:342][750]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_687.BodySetup_0 when we are unable to.
+[2021.07.22-16.59.03:671][351]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_703' invalid (328 verts, 0 indices).
+[2021.07.22-16.59.03:671][351]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_703.BodySetup_0 when we are unable to.
+[2021.07.22-16.59.08:507][892]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_719' invalid (360 verts, 0 indices).
+[2021.07.22-16.59.08:507][892]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_719.BodySetup_0 when we are unable to.
+[2021.07.22-16.59.12:624][357]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_736' invalid (360 verts, 0 indices).
+[2021.07.22-16.59.12:624][357]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_736.BodySetup_0 when we are unable to.
+[2021.07.22-16.59.17:298][877]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_753' invalid (360 verts, 0 indices).
+[2021.07.22-16.59.17:298][877]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_753.BodySetup_0 when we are unable to.
+[2021.07.22-16.59.19:563][145]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_770' invalid (360 verts, 0 indices).
+[2021.07.22-16.59.19:563][145]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_770.BodySetup_0 when we are unable to.
+[2021.07.22-16.59.20:336][234]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_787' invalid (360 verts, 0 indices).
+[2021.07.22-16.59.20:336][234]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_787.BodySetup_0 when we are unable to.
+[2021.07.22-16.59.21:467][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_804' invalid (360 verts, 0 indices).
+[2021.07.22-16.59.21:467][366]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_804.BodySetup_0 when we are unable to.
+[2021.07.22-17.00.49:390][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor30)
+[2021.07.22-17.00.50:698][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.22-17.00.50:748][647]LogSavePackage: Moving 'C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Bootcamp_LevelMap_Auto2B0102E38416647B539433893D49F21D7.tmp' to 'C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Autosaves/Game/StarterContent/Maps/Bootcamp_LevelMap_Auto2.umap'
+[2021.07.22-17.00.50:750][647]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Bootcamp_LevelMap' took 0.065
+[2021.07.22-17.00.50:750][647]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.065
+[2021.07.22-17.01.30:052][180]Cmd: TRANSACTION UNDO
+[2021.07.22-17.01.30:052][180]LogEditorTransaction: Undo Move Actors
+[2021.07.22-17.01.38:870][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor32)
+[2021.07.22-17.01.46:958][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor32)
+[2021.07.22-17.01.47:056][ 75]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.07.22-17.02.08:854][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor33)
+[2021.07.22-17.02.15:181][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor30)
+[2021.07.22-17.03.22:053][108]LogActorFactory: Actor Factory created SM_Crate03
+[2021.07.22-17.03.22:769][171]LogActorFactory: Actor Factory created SM_Crate03
+[2021.07.22-17.03.24:182][334]Cmd: DELETE
+[2021.07.22-17.03.24:182][334]Cmd: ACTOR DELETE
+[2021.07.22-17.03.24:190][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.22-17.03.24:202][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.07.22-17.03.24:204][334]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.07.22-17.03.25:392][460]LogActorFactory: Actor Factory created SM_Crate01
+[2021.07.22-17.03.25:866][507]LogActorFactory: Actor Factory created SM_Crate01
+[2021.07.22-17.04.05:239][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor34)
+[2021.07.22-17.04.13:457][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor35)
+[2021.07.22-17.04.27:197][680]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-17.04.28:360][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-17.04.40:257][175]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_821' invalid (360 verts, 0 indices).
+[2021.07.22-17.04.40:257][175]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_821.BodySetup_0 when we are unable to.
+[2021.07.22-17.04.43:277][535]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_838' invalid (360 verts, 0 indices).
+[2021.07.22-17.04.43:277][535]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_838.BodySetup_0 when we are unable to.
+[2021.07.22-17.04.49:057][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate01)
+[2021.07.22-17.04.52:170][549]Cmd: TRANSACTION UNDO
+[2021.07.22-17.04.52:170][549]LogEditorTransaction: Undo Move Actors
+[2021.07.22-17.05.17:823][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor34)
+[2021.07.22-17.05.35:913][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor35)
+[2021.07.22-17.05.57:948][117]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_855' invalid (360 verts, 0 indices).
+[2021.07.22-17.05.57:949][117]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_855.BodySetup_0 when we are unable to.
+[2021.07.22-17.06.03:437][736]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_872' invalid (360 verts, 0 indices).
+[2021.07.22-17.06.03:437][736]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_872.BodySetup_0 when we are unable to.
+[2021.07.22-17.06.12:695][818]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_889' invalid (360 verts, 0 indices).
+[2021.07.22-17.06.12:695][818]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_889.BodySetup_0 when we are unable to.
+[2021.07.22-17.06.17:337][371]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_906' invalid (360 verts, 0 indices).
+[2021.07.22-17.06.17:337][371]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_906.BodySetup_0 when we are unable to.
+[2021.07.22-17.06.20:520][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_923' invalid (360 verts, 0 indices).
+[2021.07.22-17.06.20:520][749]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_923.BodySetup_0 when we are unable to.
+[2021.07.22-17.06.21:004][804]Cmd: TRANSACTION UNDO
+[2021.07.22-17.06.21:004][804]LogEditorTransaction: Undo Move Actors
+[2021.07.22-17.06.21:012][804]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_906' invalid (360 verts, 0 indices).
+[2021.07.22-17.06.21:012][804]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_906.BodySetup_0 when we are unable to.
+[2021.07.22-17.06.25:708][329]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_940' invalid (360 verts, 0 indices).
+[2021.07.22-17.06.25:708][329]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_940.BodySetup_0 when we are unable to.
+[2021.07.22-17.06.32:355][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor34)
+[2021.07.22-17.06.40:325][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor33)
+[2021.07.22-17.06.42:689][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor35)
+[2021.07.22-17.06.48:213][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor33)
+[2021.07.22-17.07.11:168][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor32)
+[2021.07.22-17.07.33:110][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate01)
+[2021.07.22-17.07.40:556][893]Cmd: TRANSACTION UNDO
+[2021.07.22-17.07.40:556][893]LogEditorTransaction: Undo Move Actors
+[2021.07.22-17.07.57:835][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crate03)
+[2021.07.22-17.08.28:440][388]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_957' invalid (360 verts, 0 indices).
+[2021.07.22-17.08.28:440][388]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_957.BodySetup_0 when we are unable to.
+[2021.07.22-17.08.29:010][453]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_974' invalid (360 verts, 0 indices).
+[2021.07.22-17.08.29:010][453]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_974.BodySetup_0 when we are unable to.
+[2021.07.22-17.08.32:477][865]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_991' invalid (360 verts, 0 indices).
+[2021.07.22-17.08.32:477][865]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_991.BodySetup_0 when we are unable to.
+[2021.07.22-17.08.34:150][ 62]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1008' invalid (360 verts, 0 indices).
+[2021.07.22-17.08.34:150][ 62]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1008.BodySetup_0 when we are unable to.
+[2021.07.22-17.08.37:594][468]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1025' invalid (360 verts, 0 indices).
+[2021.07.22-17.08.37:594][468]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1025.BodySetup_0 when we are unable to.
+[2021.07.22-17.08.42:145][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1042' invalid (360 verts, 0 indices).
+[2021.07.22-17.08.42:145][981]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1042.BodySetup_0 when we are unable to.
+[2021.07.22-17.08.43:868][184]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1059' invalid (408 verts, 0 indices).
+[2021.07.22-17.08.43:868][184]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1059.BodySetup_0 when we are unable to.
+[2021.07.22-17.08.45:459][371]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1077' invalid (408 verts, 0 indices).
+[2021.07.22-17.08.45:459][371]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1077.BodySetup_0 when we are unable to.
+[2021.07.22-17.10.50:633][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.07.22-17.10.50:684][338]LogSavePackage: Moving 'C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Bootcamp_LevelMap_Auto34160B7164FA220FB0A4227A5D4DC31B4.tmp' to 'C:/Users/cjkcr/Desktop/Bootcamp Unreal Calum Mesh Copy/BootcampGame/Saved/Autosaves/Game/StarterContent/Maps/Bootcamp_LevelMap_Auto3.umap'
+[2021.07.22-17.10.50:685][338]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Bootcamp_LevelMap' took 0.066
+[2021.07.22-17.10.50:685][338]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.066
+[2021.07.22-17.11.44:652][783]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1095' invalid (408 verts, 0 indices).
+[2021.07.22-17.11.44:652][783]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1095.BodySetup_0 when we are unable to.
+[2021.07.22-17.11.44:903][810]Cmd: TRANSACTION UNDO
+[2021.07.22-17.11.44:903][810]LogEditorTransaction: Undo Move Actors
+[2021.07.22-17.11.44:912][810]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1077' invalid (408 verts, 0 indices).
+[2021.07.22-17.11.44:912][810]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1077.BodySetup_0 when we are unable to.
+[2021.07.22-17.11.47:490][ 81]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1113' invalid (392 verts, 0 indices).
+[2021.07.22-17.11.47:490][ 81]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1113.BodySetup_0 when we are unable to.
+[2021.07.22-17.11.57:648][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor32)
+[2021.07.22-17.12.10:178][710]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130' invalid (392 verts, 0 indices).
+[2021.07.22-17.12.10:178][710]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130.BodySetup_0 when we are unable to.
+[2021.07.22-17.12.15:083][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor32)
+[2021.07.22-17.12.30:498][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor36)
+[2021.07.22-17.13.42:234][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor19)
+[2021.07.22-17.14.12:743][ 98]Cmd: TRANSACTION UNDO
+[2021.07.22-17.14.12:743][ 98]LogEditorTransaction: Undo Move Actors
+[2021.07.22-17.14.17:996][687]Cmd: TRANSACTION UNDO
+[2021.07.22-17.14.17:996][687]LogEditorTransaction: Undo Move Actors
+[2021.07.22-17.14.40:958][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor39)
+[2021.07.22-17.15.04:484][909]LogTexture: Display: Building textures: T_Wall04_AO (AutoDXT, 2048X2048)
+[2021.07.22-17.15.04:484][909]LogTexture: Display: Building textures: T_Wall04_R (AutoDXT, 2048X2048)
+[2021.07.22-17.15.04:484][909]LogTexture: Display: Building textures: T_Wall04_BC (AutoDXT, 2048X2048)
+[2021.07.22-17.15.04:484][909]LogTexture: Display: Building textures: T_Wall04_N (BC5, 2048X2048)
+[2021.07.22-17.15.04:484][909]LogStaticMesh: Building static mesh SM_Wall04...
+[2021.07.22-17.15.04:595][909]LogStaticMesh: Built static mesh [0.11s] /Game/scifi_kitbash/meshes/SM_Wall04.SM_Wall04
+[2021.07.22-17.15.05:025][909]LogActorFactory: Actor Factory created SM_Wall04
+[2021.07.22-17.15.05:640][974]LogActorFactory: Actor Factory created SM_Wall04
+[2021.07.22-17.16.08:454][ 81]LogActorFactory: Actor Factory created SM_Beam01
+[2021.07.22-17.16.09:671][183]LogActorFactory: Actor Factory created SM_Beam01
+[2021.07.22-17.16.13:835][672]Cmd: TRANSACTION UNDO
+[2021.07.22-17.16.13:835][672]LogEditorTransaction: Undo Rotate Actors
+[2021.07.22-17.16.39:372][574]Cmd: TRANSACTION UNDO
+[2021.07.22-17.16.39:372][574]LogEditorTransaction: Undo Set Scale
+[2021.07.22-17.17.21:895][475]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-17.17.47:995][438]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.07.22-17.18.09:503][146]LogStaticMesh: Building static mesh SM_RoundWall03...
+[2021.07.22-17.18.09:542][146]LogStaticMesh: Built static mesh [0.04s] /Game/scifi_kitbash/meshes/SM_RoundWall03.SM_RoundWall03
+[2021.07.22-17.18.09:572][146]LogActorFactory: Actor Factory created SM_RoundWall03
+[2021.07.22-17.18.10:254][217]LogActorFactory: Actor Factory created SM_RoundWall03
+[2021.07.22-17.18.13:548][562]LogActorFactory: Actor Factory created SM_RoundWall04
+[2021.07.22-17.18.15:896][795]LogActorFactory: Actor Factory created SM_RoundWall04
+[2021.07.22-17.18.16:289][838]Cmd: TRANSACTION UNDO
+[2021.07.22-17.18.16:289][838]LogEditorTransaction: Undo Create Actors
+[2021.07.22-17.18.16:292][838]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130' invalid (392 verts, 0 indices).
+[2021.07.22-17.18.16:292][838]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130.BodySetup_0 when we are unable to.
+[2021.07.22-17.18.16:317][838]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130' invalid (392 verts, 0 indices).
+[2021.07.22-17.18.16:317][838]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130.BodySetup_0 when we are unable to.
+[2021.07.22-17.18.17:046][889]Cmd: TRANSACTION UNDO
+[2021.07.22-17.18.17:046][889]LogEditorTransaction: Undo Create Actors
+[2021.07.22-17.18.17:056][889]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130' invalid (392 verts, 0 indices).
+[2021.07.22-17.18.17:056][889]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130.BodySetup_0 when we are unable to.
+[2021.07.22-17.18.18:189][980]LogActorFactory: Actor Factory created SM_RoundWall04
+[2021.07.22-17.18.19:145][ 78]LogActorFactory: Actor Factory created SM_RoundWall04
+[2021.07.22-17.18.36:152][984]Cmd: TRANSACTION UNDO
+[2021.07.22-17.18.36:152][984]LogEditorTransaction: Undo Rotate Actors
+[2021.07.22-17.18.36:731][  7]Cmd: TRANSACTION UNDO
+[2021.07.22-17.18.36:731][  7]LogEditorTransaction: Undo Move Actors
+[2021.07.22-17.18.36:749][  7]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130' invalid (392 verts, 0 indices).
+[2021.07.22-17.18.36:749][  7]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130.BodySetup_0 when we are unable to.
+[2021.07.22-17.19.15:744][400]LogActorFactory: Actor Factory created SM_Pipe01
+[2021.07.22-17.19.16:812][513]LogActorFactory: Actor Factory created SM_Pipe01
+[2021.07.22-17.19.22:943][235]Cmd: TRANSACTION UNDO
+[2021.07.22-17.19.22:943][235]LogEditorTransaction: Undo Create Actors
+[2021.07.22-17.19.22:966][235]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130' invalid (392 verts, 0 indices).
+[2021.07.22-17.19.22:966][235]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130.BodySetup_0 when we are unable to.
+[2021.07.22-17.19.25:208][416]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.22-17.19.25:216][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.22-17.19.25:219][416]PIE: New page: PIE session: Bootcamp_LevelMap (22 Jul 2021, 19:19:25)
+[2021.07.22-17.19.25:220][416]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.22-17.19.25:221][416]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.22-17.19.25:221][416]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Bootcamp_LevelMap
+[2021.07.22-17.19.25:232][416]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/UEDPIE_0_Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130' invalid (392 verts, 0 indices).
+[2021.07.22-17.19.25:232][416]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/UEDPIE_0_Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1130.BodySetup_0 when we are unable to.
+[2021.07.22-17.19.25:233][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011853s)
+[2021.07.22-17.19.25:234][416]LogAIModule: Creating AISystem for world Bootcamp_LevelMap
+[2021.07.22-17.19.25:234][416]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ADBBDD6600), frame # 319416
+[2021.07.22-17.19.25:234][416]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ADBC68E700), frame # 319416
+[2021.07.22-17.19.25:234][416]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2021.07.22-17.19.25:234][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap to /Game/StarterContent/Maps/UEDPIE_0_Bootcamp_LevelMap.Bootcamp_LevelMap (0.012832s)
+[2021.07.22-17.19.25:247][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.07.22-17.19.25:253][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.22-17.19.25:253][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.22-17.19.25:253][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.22-17.19.25:253][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.22-17.19.25:253][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.22-17.19.25:253][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.22-17.19.25:253][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.22-17.19.25:253][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.22-17.19.25:253][416]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.22-17.19.25:253][416]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.22-17.19.25:285][416]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.22-17.19.25:285][416]LogAudioMixer: Display: 1: FrontRight
+[2021.07.22-17.19.25:285][416]LogAudioMixer: Display: 2: FrontCenter
+[2021.07.22-17.19.25:285][416]LogAudioMixer: Display: 3: LowFrequency
+[2021.07.22-17.19.25:285][416]LogAudioMixer: Display: 4: BackLeft
+[2021.07.22-17.19.25:285][416]LogAudioMixer: Display: 5: BackRight
+[2021.07.22-17.19.25:285][416]LogAudioMixer: Display: 6: SideLeft
+[2021.07.22-17.19.25:285][416]LogAudioMixer: Display: 7: SideRight
+[2021.07.22-17.19.25:379][416]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.22-17.19.25:379][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.22-17.19.25:379][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.22-17.19.25:379][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.22-17.19.25:379][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.22-17.19.25:390][416]LogInit: FAudioDevice initialized.
+[2021.07.22-17.19.25:398][416]LogLoad: Game class is 'GameModeBase'
+[2021.07.22-17.19.25:402][416]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Bootcamp_LevelMap.Bootcamp_LevelMap up for play (max tick rate 0) at 2021.07.22-18.19.25
+[2021.07.22-17.19.25:402][416]LogWorld: Bringing up level for play took: 0.003328
+[2021.07.22-17.19.25:402][416]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.07.22-17.19.25:436][416]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.07.22-17.19.25:437][416]PIE: Server logged in
+[2021.07.22-17.19.25:439][416]PIE: Play in editor total start time 0.223 seconds.
+[2021.07.22-17.19.35:626][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-17.19.35:626][622]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Bootcamp_LevelMap
+[2021.07.22-17.19.35:626][622]LogWorld: UWorld::CleanupWorld for Bootcamp_LevelMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.22-17.19.35:627][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-17.19.35:637][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.22-17.19.35:638][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.22-17.19.35:691][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.22-17.19.35:693][622]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ADBBDD6600), frame # 320622
+[2021.07.22-17.19.35:693][622]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ADBC68E700), frame # 320622
+[2021.07.22-17.19.35:694][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.07.22-17.19.35:719][623]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.07.22-17.19.36:760][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Plane)
+[2021.07.22-17.19.40:555][189]Cmd: DELETE
+[2021.07.22-17.19.40:555][189]Cmd: ACTOR DELETE
+[2021.07.22-17.19.40:563][189]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.22-17.19.40:576][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.07.22-17.19.40:578][189]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.07.22-17.20.07:240][253]LogActorFactory: Actor Factory created SM_WallConcrete
+[2021.07.22-17.20.08:129][327]LogActorFactory: Actor Factory created SM_WallConcrete
+[2021.07.22-17.20.48:120][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete)
+[2021.07.22-17.20.49:710][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete)
