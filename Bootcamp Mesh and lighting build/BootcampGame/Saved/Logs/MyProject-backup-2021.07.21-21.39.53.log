@@ -1,0 +1,1554 @@
+﻿Log file open, 07/21/21 22:13:00
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173404
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+Message dialog closed, result: Yes, title: Missing Plugin, text: This project requires the 'HoudiniEngine' plugin, which could not be found. Would you like to disable it and continue?
+
+If you do, you will no longer be able to open any assets created with it. If not, the application will close.
+LogPluginManager: Display: Disabled plugin 'HoudiniEngine', continuing.
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.21-21.13.01:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.21-21.13.01:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.21-21.13.01:109][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.21-21.13.01:111][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.21-21.13.01:111][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.07.21-21.13.01:112][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.21-21.13.01:112][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.21-21.13.01:112][  0]LogHAL: Display: Platform has ~ 32 GB [34305617920 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.21-21.13.01:112][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.21-21.13.01:112][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.21-21.13.01:112][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Scalability.ini]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.07.21-21.13.01:113][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.21-21.13.01:114][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.21-21.13.01:114][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.21-21.13.01:114][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.21-21.13.01:114][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/franc/Downloads/BootcampGame/Saved/Config/Windows/Engine.ini]
+[2021.07.21-21.13.01:114][  0]LogInit: Computer: CERBERUS
+[2021.07.21-21.13.01:114][  0]LogInit: User: franc
+[2021.07.21-21.13.01:114][  0]LogInit: CPU Page size=4096, Cores=12
+[2021.07.21-21.13.01:114][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.21-21.13.01:114][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.07.21-21.13.01:114][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.21-21.13.01:114][  0]LogMemory: Process Physical Memory: 120.22 MB used, 120.22 MB peak
+[2021.07.21-21.13.01:114][  0]LogMemory: Process Virtual Memory: 100.57 MB used, 100.57 MB peak
+[2021.07.21-21.13.01:114][  0]LogMemory: Physical Memory: 6665.52 MB used,  26050.86 MB free, 32716.39 MB total
+[2021.07.21-21.13.01:114][  0]LogMemory: Virtual Memory: 5289.80 MB used,  134212440.00 MB free, 134217728.00 MB total
+[2021.07.21-21.13.01:118][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.21-21.13.01:154][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.21-21.13.01:155][  0]LogInit: Using OS detected language (en-GB).
+[2021.07.21-21.13.01:155][  0]LogInit: Using OS detected locale (en-GB).
+[2021.07.21-21.13.01:161][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.07.21-21.13.01:306][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.21-21.13.01:329][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.21-21.13.01:329][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.21-21.13.01:457][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.21-21.13.01:457][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.21-21.13.01:457][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.21-21.13.01:457][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.21-21.13.01:567][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2021.07.21-21.13.01:567][  0]LogD3D11RHI:       8010/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.07.21-21.13.01:569][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.21-21.13.01:569][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.21-21.13.01:569][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.21-21.13.01:575][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.21-21.13.01:575][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.21-21.13.01:576][  0]LogWindows: EnumDisplayDevices:
+[2021.07.21-21.13.01:576][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2021.07.21-21.13.01:576][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.07.21-21.13.01:576][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.07.21-21.13.01:576][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2021.07.21-21.13.01:576][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.21-21.13.01:576][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2021.07.21-21.13.01:576][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.07.21-21.13.01:576][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.07.21-21.13.01:576][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2021.07.21-21.13.01:655][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.21-21.13.01:656][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2021.07.21-21.13.01:656][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.21-21.13.01:656][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.21-21.13.01:679][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.07.21-21.13.01:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.21-21.13.01:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.21-21.13.01:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.21-21.13.01:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.21-21.13.01:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.21-21.13.01:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.21-21.13.01:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.21-21.13.01:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.21-21.13.01:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.21-21.13.01:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.21-21.13.01:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.21-21.13.01:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.21-21.13.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.21-21.13.01:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.21-21.13.01:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.21-21.13.01:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.21-21.13.01:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.21-21.13.01:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.21-21.13.01:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.21-21.13.01:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.21-21.13.02:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.21-21.13.02:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.21-21.13.02:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.21-21.13.02:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.21-21.13.02:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.21-21.13.02:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.21-21.13.02:058][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.21-21.13.02:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.21-21.13.02:066][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.21-21.13.02:072][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.21-21.13.02:122][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/franc/Downloads/BootcampGame/Intermediate/Shaders/WorkingDirectory/21352/).
+[2021.07.21-21.13.02:122][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/franc/AppData/Local/Temp/UnrealShaderWorkingDir/BD4215244AEB70159AF759B6D47FDDA3/'.
+[2021.07.21-21.13.02:122][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.07.21-21.13.02:123][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.21-21.13.02:123][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.21-21.13.02:777][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.21-21.13.02:817][  0]LogDerivedDataCache: Loaded boot cache 0.04s 75MB C:/Users/franc/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.07.21-21.13.02:817][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/franc/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.07.21-21.13.02:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/franc/Downloads/BootcampGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.21-21.13.02:818][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.21-21.13.02:818][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/franc/Downloads/BootcampGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.21-21.13.02:818][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.21-21.13.02:827][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.21-21.13.02:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.21-21.13.02:827][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.21-21.13.02:828][  0]LogDerivedDataCache: Using Local data cache path C:/Users/franc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.21-21.13.02:828][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.21-21.13.02:828][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.21-21.13.02:870][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.21-21.13.02:871][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.21-21.13.02:891][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2021.07.21-21.13.03:091][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.21-21.13.03:182][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.21-21.13.03:182][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.21-21.13.03:182][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.21-21.13.03:182][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.21-21.13.03:182][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.21-21.13.03:193][  0]LogNetVersion: MyProject 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 709303259)
+[2021.07.21-21.13.03:544][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001E565A6C380), frame # 0
+[2021.07.21-21.13.03:544][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E56597EAC0), frame # 0
+[2021.07.21-21.13.03:545][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E5659CA000), frame # 0
+[2021.07.21-21.13.03:579][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.028559 seconds
+[2021.07.21-21.13.03:584][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.07.21-21.13.03:584][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.07.21-21.13.03:584][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.21-21.13.03:865][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.21-21.13.03:893][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.21-21.13.03:954][  0]SourceControl: Source control is disabled
+[2021.07.21-21.13.03:954][  0]SourceControl: Source control is disabled
+[2021.07.21-21.13.03:956][  0]SourceControl: Source control is disabled
+[2021.07.21-21.13.03:958][  0]SourceControl: Source control is disabled
+[2021.07.21-21.13.03:963][  0]SourceControl: Source control is disabled
+[2021.07.21-21.13.04:162][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.21-21.13.04:180][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.21-21.13.04:180][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.21-21.13.04:223][  0]LogOcInput: OculusInput pre-init called
+[2021.07.21-21.13.04:234][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.21-21.13.04:234][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.21-21.13.04:293][  0]LogEngine: Initializing Engine...
+[2021.07.21-21.13.04:294][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.21-21.13.04:294][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.21-21.13.04:295][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.21-21.13.04:385][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.21-21.13.04:392][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.21-21.13.04:392][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E56A89C800), frame # 0
+[2021.07.21-21.13.04:392][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E56A84FB00), frame # 0
+[2021.07.21-21.13.04:402][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.21-21.13.04:402][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.21-21.13.04:402][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.21-21.13.04:402][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.21-21.13.04:402][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.21-21.13.04:402][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.21-21.13.04:402][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.21-21.13.04:402][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.21-21.13.04:403][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.21-21.13.04:403][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.21-21.13.04:415][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.21-21.13.04:415][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.21-21.13.04:459][  0]LogAudioMixer: Display: Using Audio Device Headphones (Uproar Wireless Stereo)
+[2021.07.21-21.13.04:460][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.21-21.13.04:462][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.21-21.13.04:462][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.21-21.13.04:463][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.21-21.13.04:464][  0]LogInit: FAudioDevice initialized.
+[2021.07.21-21.13.04:464][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.21-21.13.04:558][  0]LogDerivedDataCache: Saved boot cache 0.09s 75MB C:/Users/franc/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.07.21-21.13.04:558][  0]LogInit: Texture streaming: Enabled
+[2021.07.21-21.13.04:572][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.21-21.13.04:572][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.21-21.13.04:573][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.21-21.13.04:590][  0]LogInit: Transaction tracking system initialized
+[2021.07.21-21.13.04:607][  0]BlueprintLog: New page: Editor Load
+[2021.07.21-21.13.04:664][  0]LocalizationService: Localization service is disabled
+[2021.07.21-21.13.04:814][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.07.21-21.13.04:814][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.21-21.13.04:923][  0]LogFileCache: Scanning file cache for directory 'C:/Users/franc/Downloads/BootcampGame/Content/' took 0.00s
+[2021.07.21-21.13.05:062][  0]SourceControl: Source control is disabled
+[2021.07.21-21.13.05:062][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.633
+[2021.07.21-21.13.05:071][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.25/FeaturePacks/StarterContent.upack)
+[2021.07.21-21.13.05:077][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.07.21-21.13.05:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.07.21-21.13.05:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.07.21-21.13.05:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.07.21-21.13.05:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.07.21-21.13.05:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.07.21-21.13.05:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.07.21-21.13.05:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.07.21-21.13.05:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.07.21-21.13.05:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.07.21-21.13.05:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.07.21-21.13.05:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.07.21-21.13.05:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.07.21-21.13.05:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.07.21-21.13.05:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.07.21-21.13.05:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.07.21-21.13.05:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.07.21-21.13.05:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.07.21-21.13.05:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Fire01.uasset"
+[2021.07.21-21.13.05:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.07.21-21.13.05:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.07.21-21.13.05:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.07.21-21.13.05:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Light01.uasset"
+[2021.07.21-21.13.05:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.07.21-21.13.05:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Light02.uasset"
+[2021.07.21-21.13.05:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.07.21-21.13.05:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.07.21-21.13.05:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.07.21-21.13.05:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.07.21-21.13.05:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.07.21-21.13.05:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.07.21-21.13.05:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.07.21-21.13.05:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.07.21-21.13.05:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.07.21-21.13.05:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Steam01.uasset"
+[2021.07.21-21.13.05:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.07.21-21.13.05:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.07.21-21.13.05:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.07.21-21.13.05:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.07.21-21.13.05:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.07.21-21.13.05:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.07.21-21.13.05:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.07.21-21.13.05:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.07.21-21.13.05:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.07.21-21.13.05:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.07.21-21.13.05:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.07.21-21.13.05:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.07.21-21.13.05:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.07.21-21.13.05:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.07.21-21.13.05:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.07.21-21.13.05:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.07.21-21.13.05:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.07.21-21.13.05:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.07.21-21.13.05:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.07.21-21.13.05:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.07.21-21.13.05:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.07.21-21.13.05:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.07.21-21.13.05:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/StarterMap.umap"
+[2021.07.21-21.13.05:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.07.21-21.13.05:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.07.21-21.13.05:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.07.21-21.13.05:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.07.21-21.13.05:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.07.21-21.13.05:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.07.21-21.13.05:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.07.21-21.13.05:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.07.21-21.13.05:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.07.21-21.13.05:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.07.21-21.13.05:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.07.21-21.13.05:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.07.21-21.13.05:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.07.21-21.13.05:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.07.21-21.13.05:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.07.21-21.13.05:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.07.21-21.13.05:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.07.21-21.13.05:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.07.21-21.13.05:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.07.21-21.13.05:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.07.21-21.13.05:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.07.21-21.13.05:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.07.21-21.13.05:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.07.21-21.13.05:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.07.21-21.13.05:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.07.21-21.13.05:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.07.21-21.13.05:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.07.21-21.13.05:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.07.21-21.13.05:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.07.21-21.13.05:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.07.21-21.13.05:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.07.21-21.13.05:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.07.21-21.13.05:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.07.21-21.13.05:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.07.21-21.13.05:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.07.21-21.13.05:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.07.21-21.13.05:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.07.21-21.13.05:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.07.21-21.13.05:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.07.21-21.13.05:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.07.21-21.13.05:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.07.21-21.13.05:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.07.21-21.13.05:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.07.21-21.13.05:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.07.21-21.13.05:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.07.21-21.13.05:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.07.21-21.13.05:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.07.21-21.13.05:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.07.21-21.13.05:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.07.21-21.13.05:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.07.21-21.13.05:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.07.21-21.13.05:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.07.21-21.13.05:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.07.21-21.13.05:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.07.21-21.13.05:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.07.21-21.13.05:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.07.21-21.13.05:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.07.21-21.13.05:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.07.21-21.13.05:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.07.21-21.13.05:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.07.21-21.13.05:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.07.21-21.13.05:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.07.21-21.13.05:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.07.21-21.13.05:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.07.21-21.13.05:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.07.21-21.13.05:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_Door.uasset"
+[2021.07.21-21.13.05:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.07.21-21.13.05:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.07.21-21.13.05:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.07.21-21.13.05:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.07.21-21.13.05:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.07.21-21.13.05:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.07.21-21.13.05:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.07.21-21.13.05:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.07.21-21.13.05:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.07.21-21.13.05:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.07.21-21.13.05:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.07.21-21.13.05:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.07.21-21.13.05:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.07.21-21.13.05:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.07.21-21.13.06:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.07.21-21.13.06:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.07.21-21.13.06:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.07.21-21.13.06:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.07.21-21.13.06:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.07.21-21.13.06:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.07.21-21.13.06:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.07.21-21.13.06:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.07.21-21.13.06:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.07.21-21.13.06:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.07.21-21.13.06:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.07.21-21.13.06:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.07.21-21.13.06:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.07.21-21.13.06:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.07.21-21.13.06:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.07.21-21.13.06:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.07.21-21.13.06:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.07.21-21.13.06:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.07.21-21.13.06:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.07.21-21.13.06:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.07.21-21.13.06:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.07.21-21.13.06:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.07.21-21.13.06:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.07.21-21.13.06:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.07.21-21.13.06:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.07.21-21.13.06:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.07.21-21.13.06:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.07.21-21.13.06:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.07.21-21.13.06:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.07.21-21.13.06:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.07.21-21.13.06:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.07.21-21.13.06:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.07.21-21.13.06:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.07.21-21.13.06:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.07.21-21.13.06:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.07.21-21.13.06:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.07.21-21.13.06:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.07.21-21.13.06:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.07.21-21.13.06:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.07.21-21.13.06:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.07.21-21.13.06:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.07.21-21.13.06:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.07.21-21.13.06:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.07.21-21.13.06:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.07.21-21.13.06:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.07.21-21.13.06:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.07.21-21.13.06:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.07.21-21.13.06:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.07.21-21.13.06:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.07.21-21.13.06:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.07.21-21.13.06:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.07.21-21.13.06:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.07.21-21.13.06:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.07.21-21.13.06:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.07.21-21.13.06:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.07.21-21.13.06:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.07.21-21.13.06:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.07.21-21.13.06:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.07.21-21.13.06:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.07.21-21.13.06:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.07.21-21.13.06:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.07.21-21.13.06:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.07.21-21.13.06:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.07.21-21.13.06:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.07.21-21.13.06:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.07.21-21.13.06:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.07.21-21.13.06:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.07.21-21.13.06:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.07.21-21.13.06:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.07.21-21.13.06:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.07.21-21.13.06:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.07.21-21.13.06:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.07.21-21.13.06:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.07.21-21.13.06:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.07.21-21.13.06:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.07.21-21.13.06:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.07.21-21.13.06:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.07.21-21.13.06:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.07.21-21.13.07:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.07.21-21.13.07:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.07.21-21.13.07:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.07.21-21.13.07:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.07.21-21.13.07:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.07.21-21.13.07:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.07.21-21.13.07:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.07.21-21.13.07:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.07.21-21.13.07:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.07.21-21.13.07:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.07.21-21.13.07:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.07.21-21.13.07:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.07.21-21.13.07:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.07.21-21.13.07:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.07.21-21.13.07:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.07.21-21.13.07:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.07.21-21.13.07:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.07.21-21.13.07:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.07.21-21.13.07:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.07.21-21.13.07:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.07.21-21.13.07:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.07.21-21.13.07:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.07.21-21.13.07:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.07.21-21.13.07:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.07.21-21.13.07:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.07.21-21.13.07:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.07.21-21.13.07:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.07.21-21.13.07:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.07.21-21.13.07:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.07.21-21.13.07:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.07.21-21.13.07:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.07.21-21.13.07:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.07.21-21.13.07:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.07.21-21.13.07:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.07.21-21.13.07:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.07.21-21.13.07:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.07.21-21.13.07:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.07.21-21.13.07:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.07.21-21.13.07:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.07.21-21.13.07:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.07.21-21.13.07:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.07.21-21.13.07:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.07.21-21.13.07:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.07.21-21.13.07:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.07.21-21.13.07:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.07.21-21.13.07:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.07.21-21.13.07:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.07.21-21.13.07:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.07.21-21.13.07:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.07.21-21.13.08:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.07.21-21.13.08:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.07.21-21.13.08:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.07.21-21.13.08:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.07.21-21.13.08:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.07.21-21.13.08:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.07.21-21.13.08:187][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.07.21-21.13.08:293][  0]LogSavePackage: Moving '../../../../../../Users/franc/Downloads/BootcampGame/Saved/Floor_400x40012C39ACF435A940A817D089346A9B63B.tmp' to '../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.07.21-21.13.08:296][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.07.21-21.13.08:297][  0]Cmd: MAP LOAD FILE="../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.21-21.13.08:298][  0]LightingResults: New page: Lighting Build
+[2021.07.21-21.13.08:298][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-21.13.08:298][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.21-21.13.08:298][  0]MapCheck: New page: Map Check
+[2021.07.21-21.13.08:298][  0]LightingResults: New page: Lighting Build
+[2021.07.21-21.13.08:320][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E56A89C800), frame # 0
+[2021.07.21-21.13.08:320][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E56A84FB00), frame # 0
+[2021.07.21-21.13.08:321][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.07.21-21.13.08:450][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.07.21-21.13.08:450][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E557FAD000), frame # 0
+[2021.07.21-21.13.08:450][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E557EC9440), frame # 0
+[2021.07.21-21.13.08:455][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.21-21.13.08:468][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.07.21-21.13.08:468][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.21-21.13.08:468][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.158ms to complete.
+[2021.07.21-21.13.08:468][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.171
+[2021.07.21-21.13.08:470][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.041
+[2021.07.21-21.13.08:617][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.21-21.13.08:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.21-21.13.08:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.21-21.13.08:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.21-21.13.08:652][  0]LogCollectionManager: Loaded 0 collections in 0.001647 seconds
+[2021.07.21-21.13.08:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/franc/Downloads/BootcampGame/Saved/Collections/' took 0.00s
+[2021.07.21-21.13.08:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/franc/Downloads/BootcampGame/Content/Developers/franc/Collections/' took 0.00s
+[2021.07.21-21.13.08:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/franc/Downloads/BootcampGame/Content/Collections/' took 0.00s
+[2021.07.21-21.13.08:691][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 3427 classes and 821 folders.
+[2021.07.21-21.13.08:700][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.21-21.13.09:328][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.21-21.13.09:369][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.07.21-21.13.09:592][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.21-21.13.09:594][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.21-21.13.09:604][  0]LogSlate: Took 0.005393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.21-21.13.09:669][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2021.07.21-21.13.09:750][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.21-21.13.09:750][  0]LogLoad: (Engine Initialization) Total time: 17.32 seconds
+[2021.07.21-21.13.09:750][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.21-21.13.09:763][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.07.21-21.13.09:763][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.07.21-21.13.09:776][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.21-21.13.16:047][503]LogAssetRegistry: Asset discovery search completed in 13.1569 seconds
+[2021.07.21-21.13.16:050][503]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.07.21-21.14.50:003][630]LogSlate: Took 0.005111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.21-21.15.24:019][127]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap
+[2021.07.21-21.15.24:032][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.07.21-21.15.24:033][127]Cmd: MAP LOAD FILE="../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/Bootcamp_LevelMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.21-21.15.24:033][127]LightingResults: New page: Lighting Build
+[2021.07.21-21.15.24:034][127]LoadErrors: New page: Loading map: Bootcamp_LevelMap.umap
+[2021.07.21-21.15.24:035][127]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-21.15.24:035][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.21-21.15.24:035][127]MapCheck: New page: Map Check
+[2021.07.21-21.15.24:035][127]LightingResults: New page: Lighting Build
+[2021.07.21-21.15.24:047][127]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E557FAD000), frame # 11127
+[2021.07.21-21.15.24:047][127]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E557EC9440), frame # 11127
+[2021.07.21-21.15.24:048][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.07.21-21.15.24:100][127]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.21-21.15.24:100][127]LogAIModule: Creating AISystem for world Bootcamp_LevelMap
+[2021.07.21-21.15.24:100][127]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E51B497200), frame # 11127
+[2021.07.21-21.15.24:100][127]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E5582E4680), frame # 11127
+[2021.07.21-21.15.24:113][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.07.21-21.15.24:120][127]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.21-21.15.24:120][127]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2021.07.21-21.15.24:120][127]LogFileHelpers: Loading map 'Bootcamp_LevelMap' took 0.087
+[2021.07.21-21.15.27:228][454]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.21-21.15.27:234][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.21-21.15.27:235][454]PIE: New page: PIE session: Bootcamp_LevelMap (21 Jul 2021, 23:15:27)
+[2021.07.21-21.15.27:237][454]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.21-21.15.27:238][454]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.21-21.15.27:238][454]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Bootcamp_LevelMap
+[2021.07.21-21.15.27:248][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010283s)
+[2021.07.21-21.15.27:249][454]LogAIModule: Creating AISystem for world Bootcamp_LevelMap
+[2021.07.21-21.15.27:249][454]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E5074D4E00), frame # 11454
+[2021.07.21-21.15.27:249][454]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E51B2EE200), frame # 11454
+[2021.07.21-21.15.27:249][454]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2021.07.21-21.15.27:249][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap to /Game/StarterContent/Maps/UEDPIE_0_Bootcamp_LevelMap.Bootcamp_LevelMap (0.011321s)
+[2021.07.21-21.15.27:261][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.07.21-21.15.27:263][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.21-21.15.27:263][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.21-21.15.27:263][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.21-21.15.27:263][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.21-21.15.27:263][454]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.21-21.15.27:263][454]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.21-21.15.27:263][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.21-21.15.27:263][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.21-21.15.27:263][454]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.21-21.15.27:263][454]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.21-21.15.27:267][454]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.21-21.15.27:267][454]LogAudioMixer: Display: 1: FrontRight
+[2021.07.21-21.15.27:281][454]LogAudioMixer: Display: Using Audio Device Headphones (Uproar Wireless Stereo)
+[2021.07.21-21.15.27:281][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.21-21.15.27:282][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.21-21.15.27:282][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.21-21.15.27:282][454]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.21-21.15.27:292][454]LogInit: FAudioDevice initialized.
+[2021.07.21-21.15.27:299][454]LogLoad: Game class is 'GameModeBase'
+[2021.07.21-21.15.27:304][454]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Bootcamp_LevelMap.Bootcamp_LevelMap up for play (max tick rate 0) at 2021.07.21-22.15.27
+[2021.07.21-21.15.27:304][454]LogWorld: Bringing up level for play took: 0.000867
+[2021.07.21-21.15.27:305][454]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.07.21-21.15.27:309][454]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.07.21-21.15.27:312][454]PIE: Server logged in
+[2021.07.21-21.15.27:314][454]PIE: Play in editor total start time 0.081 seconds.
+[2021.07.21-21.15.36:619][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.21-21.15.36:619][533]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Bootcamp_LevelMap
+[2021.07.21-21.15.36:620][533]LogWorld: UWorld::CleanupWorld for Bootcamp_LevelMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-21.15.36:620][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.21-21.15.36:626][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.21-21.15.36:627][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.21-21.15.36:651][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.21-21.15.36:653][533]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E5074D4E00), frame # 12533
+[2021.07.21-21.15.36:653][533]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E51B2EE200), frame # 12533
+[2021.07.21-21.15.36:653][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.07.21-21.15.36:696][535]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.07.21-21.18.27:072][325]LogEditorViewport: Clicking Background
+[2021.07.21-21.19.00:297][389]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush39)
+[2021.07.21-21.19.08:899][405]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush39)
+[2021.07.21-21.19.09:437][466]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush18)
+[2021.07.21-21.19.10:635][583]Cmd: TRANSACTION UNDO
+[2021.07.21-21.19.10:635][583]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.07.21-21.19.12:589][668]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush18)
+[2021.07.21-21.19.13:726][802]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush39)
+[2021.07.21-21.19.16:926][180]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_20' invalid (612 verts, 0 indices).
+[2021.07.21-21.19.16:926][180]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_20.BodySetup_0 when we are unable to.
+[2021.07.21-21.19.20:400][593]LogEditorViewport: Clicking Background
+[2021.07.21-21.19.24:826][123]LogEditorViewport: Clicking Background
+[2021.07.21-21.19.25:275][177]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush39)
+[2021.07.21-21.20.04:178][596]Cmd: TRANSACTION UNDO
+[2021.07.21-21.20.04:178][596]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.20.14:692][759]LogEditorViewport: Clicking Background
+[2021.07.21-21.20.16:132][931]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush39)
+[2021.07.21-21.20.21:214][530]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_221' invalid (596 verts, 0 indices).
+[2021.07.21-21.20.21:214][530]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_221.BodySetup_0 when we are unable to.
+[2021.07.21-21.20.23:424][793]Cmd: TRANSACTION UNDO
+[2021.07.21-21.20.23:424][793]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.20.25:925][  2]Cmd: TRANSACTION UNDO
+[2021.07.21-21.20.25:925][  2]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.20.30:029][454]LogEditorViewport: Clicking Background
+[2021.07.21-21.20.39:429][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.07.21-21.20.39:466][563]LogSavePackage: Moving '../../../../../../Users/franc/Downloads/BootcampGame/Saved/Bootcamp_LevelMap1F1524574E48FE0D661D7DBB4D4011D5.tmp' to '../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/Bootcamp_LevelMap.umap'
+[2021.07.21-21.20.39:506][563]LogSavePackage: Moving '../../../../../../Users/franc/Downloads/BootcampGame/Saved/Bootcamp_LevelMap_BuiltData3A920A644D7BE72E095162865EE6A5F0.tmp' to '../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/Bootcamp_LevelMap_BuiltData.uasset'
+[2021.07.21-21.20.39:515][563]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.21-21.20.39:515][563]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap
+[2021.07.21-21.20.39:515][563]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Bootcamp_LevelMap_BuiltData.Bootcamp_LevelMap_BuiltData
+[2021.07.21-21.20.51:266][919]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush39)
+[2021.07.21-21.21.26:894][125]LogEditorViewport: Clicking Background
+[2021.07.21-21.21.31:573][686]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush40)
+[2021.07.21-21.21.43:725][126]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush40)
+[2021.07.21-21.21.48:406][679]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_555' invalid (596 verts, 0 indices).
+[2021.07.21-21.21.48:406][679]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_555.BodySetup_0 when we are unable to.
+[2021.07.21-21.22.03:667][495]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_575' invalid (612 verts, 0 indices).
+[2021.07.21-21.22.03:667][495]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_575.BodySetup_0 when we are unable to.
+[2021.07.21-21.22.45:523][465]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_687' invalid (596 verts, 0 indices).
+[2021.07.21-21.22.45:523][465]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_687.BodySetup_0 when we are unable to.
+[2021.07.21-21.22.48:663][836]Cmd: TRANSACTION UNDO
+[2021.07.21-21.22.48:663][836]LogEditorTransaction: Undo Marquee Select
+[2021.07.21-21.22.48:680][836]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_687' invalid (596 verts, 0 indices).
+[2021.07.21-21.22.48:680][836]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_687.BodySetup_0 when we are unable to.
+[2021.07.21-21.24.46:777][754]Cmd: TRANSACTION UNDO
+[2021.07.21-21.24.46:777][754]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.24.51:671][256]Cmd: TRANSACTION REDO
+[2021.07.21-21.24.51:671][256]LogEditorTransaction: Redo Move Actors
+[2021.07.21-21.24.56:074][694]Cmd: EDIT CUT
+[2021.07.21-21.24.56:089][694]LogEditorActor: Deleted Actor: Brush
+[2021.07.21-21.24.56:109][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.07.21-21.24.56:124][694]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2021.07.21-21.24.57:686][880]Cmd: TRANSACTION UNDO
+[2021.07.21-21.24.57:686][880]LogEditorTransaction: Undo Cut
+[2021.07.21-21.24.58:265][896]Cmd: TRANSACTION UNDO
+[2021.07.21-21.24.58:266][896]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.25.36:848][419]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1271' invalid (596 verts, 0 indices).
+[2021.07.21-21.25.36:848][419]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1271.BodySetup_0 when we are unable to.
+[2021.07.21-21.25.55:401][817]LogEditorViewport: Clicking Background
+[2021.07.21-21.26.05:053][971]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush41)
+[2021.07.21-21.26.10:352][598]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1309' invalid (596 verts, 0 indices).
+[2021.07.21-21.26.10:352][598]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1309.BodySetup_0 when we are unable to.
+[2021.07.21-21.26.12:956][907]LogEditorViewport: Clicking Background
+[2021.07.21-21.26.15:059][159]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush41)
+[2021.07.21-21.26.22:956][ 95]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1347' invalid (596 verts, 0 indices).
+[2021.07.21-21.26.22:956][ 95]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_1347.BodySetup_0 when we are unable to.
+[2021.07.21-21.26.27:173][596]LogEditorViewport: Clicking Background
+[2021.07.21-21.26.28:685][777]Cmd: TRANSACTION UNDO
+[2021.07.21-21.26.28:685][777]LogEditorTransaction: Undo Clicking Background
+[2021.07.21-21.30.37:201][590]Cmd: TRANSACTION UNDO
+[2021.07.21-21.30.37:201][590]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.30.38:004][615]Cmd: TRANSACTION UNDO
+[2021.07.21-21.30.38:004][615]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.30.40:864][937]Cmd: TRANSACTION UNDO
+[2021.07.21-21.30.40:864][937]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.31.15:488][ 24]LogEditorViewport: Clicking Background
+[2021.07.21-21.31.25:702][249]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush37)
+[2021.07.21-21.31.29:022][640]Cmd: TRANSACTION UNDO
+[2021.07.21-21.31.29:022][640]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.31.29:912][669]Cmd: TRANSACTION UNDO
+[2021.07.21-21.31.29:912][669]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2021.07.21-21.31.32:024][878]Cmd: TRANSACTION UNDO
+[2021.07.21-21.31.32:024][878]LogEditorTransaction: Undo Clicking Background
+[2021.07.21-21.31.33:471][ 21]Cmd: TRANSACTION REDO
+[2021.07.21-21.31.33:471][ 21]LogEditorTransaction: Redo Clicking Background
+[2021.07.21-21.31.35:089][186]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush37)
+[2021.07.21-21.31.38:616][596]Cmd: TRANSACTION UNDO
+[2021.07.21-21.31.38:616][596]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.31.40:943][782]Cmd: TRANSACTION UNDO
+[2021.07.21-21.31.40:943][782]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.21-21.31.41:818][869]Cmd: TRANSACTION REDO
+[2021.07.21-21.31.41:818][869]LogEditorTransaction: Redo Clicking on Actors
+[2021.07.21-21.31.47:383][496]Cmd: TRANSACTION UNDO
+[2021.07.21-21.31.47:383][496]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.31.54:220][208]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush38)
+[2021.07.21-21.31.54:714][265]Cmd: TRANSACTION UNDO
+[2021.07.21-21.31.54:714][265]LogEditorTransaction: Undo Clicking on Actors
+[2021.07.21-21.31.55:130][276]Cmd: TRANSACTION UNDO
+[2021.07.21-21.31.55:130][276]LogEditorTransaction: Undo Move Actors
+[2021.07.21-21.32.00:830][880]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush38)
+[2021.07.21-21.32.05:087][381]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush39)
+[2021.07.21-21.32.13:039][322]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush41)
+[2021.07.21-21.32.20:937][257]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush40)
+[2021.07.21-21.32.44:713][ 63]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2037' invalid (712 verts, 0 indices).
+[2021.07.21-21.32.44:713][ 63]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2037.BodySetup_0 when we are unable to.
+[2021.07.21-21.33.05:839][569]LogEditorViewport: Clicking Background
+[2021.07.21-21.33.07:539][772]Cmd: TRANSACTION UNDO
+[2021.07.21-21.33.07:539][772]LogEditorTransaction: Undo Clicking Background
+[2021.07.21-21.33.40:731][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.07.21-21.33.40:783][578]LogSavePackage: Moving '../../../../../../Users/franc/Downloads/BootcampGame/Saved/Bootcamp_LevelMap_Auto18C6438104F6B670FEB92A6A7AC68E03D.tmp' to '../../../../../../Users/franc/Downloads/BootcampGame/Saved/Autosaves/Game/StarterContent/Maps/Bootcamp_LevelMap_Auto1.umap'
+[2021.07.21-21.33.40:784][578]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Bootcamp_LevelMap' took 0.080
+[2021.07.21-21.33.40:784][578]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.080
+[2021.07.21-21.38.42:383][726]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2121' invalid (592 verts, 0 indices).
+[2021.07.21-21.38.42:383][726]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2121.BodySetup_0 when we are unable to.
+[2021.07.21-21.38.45:148][ 48]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2142' invalid (592 verts, 0 indices).
+[2021.07.21-21.38.45:148][ 48]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap:PersistentLevel.ModelComponent_2142.BodySetup_0 when we are unable to.
+[2021.07.21-21.38.48:408][433]LogEditorViewport: Clicking Background
+[2021.07.21-21.39.02:426][113]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush17)
+[2021.07.21-21.39.03:323][218]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush45)
+[2021.07.21-21.39.06:705][619]LogEditorViewport: Clicking Background
+[2021.07.21-21.39.30:396][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.07.21-21.39.30:445][362]LogSavePackage: Moving '../../../../../../Users/franc/Downloads/BootcampGame/Saved/Bootcamp_LevelMap2EB0437D4279DB0BB47996B41F762DC9.tmp' to '../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/Bootcamp_LevelMap.umap'
+[2021.07.21-21.39.30:513][362]LogSavePackage: Moving '../../../../../../Users/franc/Downloads/BootcampGame/Saved/Bootcamp_LevelMap_BuiltDataA3F423454F8A079043B9B28B42A8D247.tmp' to '../../../../../../Users/franc/Downloads/BootcampGame/Content/StarterContent/Maps/Bootcamp_LevelMap_BuiltData.uasset'
+[2021.07.21-21.39.30:524][362]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.21-21.39.30:525][362]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Bootcamp_LevelMap.Bootcamp_LevelMap
+[2021.07.21-21.39.30:525][362]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Bootcamp_LevelMap_BuiltData.Bootcamp_LevelMap_BuiltData
+[2021.07.21-21.39.33:560][555]LogUProjectInfo: Found projects:
+[2021.07.21-21.39.33:565][555]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2021.07.21-21.39.33:565][555]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.07.21-21.39.33:594][555]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.21-21.39.50:339][739]Cmd: CLOSE_SLATE_MAINFRAME
+[2021.07.21-21.39.50:365][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.07.21-21.39.50:388][739]LogSlate: Window 'Open Project' being destroyed
+[2021.07.21-21.39.50:392][739]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2021.07.21-21.39.50:666][740]Cmd: QUIT_EDITOR
+[2021.07.21-21.39.50:666][740]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.07.21-21.39.50:675][740]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.07.21-21.39.51:390][740]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.07.21-21.39.51:398][740]LogExit: Preparing to exit.
+[2021.07.21-21.39.51:803][740]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-21.39.51:803][740]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-21.39.51:810][740]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.07.21-21.39.51:813][740]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.21-21.39.51:813][740]LogExit: Editor shut down
+[2021.07.21-21.39.51:815][740]LogExit: Transaction tracking system shut down
+[2021.07.21-21.39.51:952][740]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001E565A6C380), frame # 159740
+[2021.07.21-21.39.51:952][740]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E56597EAC0), frame # 159740
+[2021.07.21-21.39.51:952][740]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E5659CA000), frame # 159740
+[2021.07.21-21.39.51:956][740]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E5582E4680), frame # 159740
+[2021.07.21-21.39.51:956][740]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E51B497200), frame # 159740
+[2021.07.21-21.39.51:980][740]LogExit: Object subsystem successfully closed.
+[2021.07.21-21.39.52:007][740]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (796)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module Voice (794)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (792)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2021.07.21-21.39.52:039][740]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2021.07.21-21.39.52:040][740]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2021.07.21-21.39.52:575][740]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2021.07.21-21.39.52:575][740]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2021.07.21-21.39.52:575][740]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2021.07.21-21.39.52:575][740]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2021.07.21-21.39.52:575][740]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2021.07.21-21.39.52:576][740]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2021.07.21-21.39.52:577][740]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2021.07.21-21.39.52:577][740]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2021.07.21-21.39.52:577][740]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2021.07.21-21.39.52:577][740]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2021.07.21-21.39.52:609][740]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2021.07.21-21.39.52:610][740]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2021.07.21-21.39.52:738][740]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2021.07.21-21.39.52:743][740]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2021.07.21-21.39.52:744][740]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2021.07.21-21.39.52:845][740]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2021.07.21-21.39.52:946][740]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2021.07.21-21.39.52:946][740]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2021.07.21-21.39.52:946][740]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2021.07.21-21.39.52:947][740]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2021.07.21-21.39.52:947][740]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2021.07.21-21.39.52:947][740]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2021.07.21-21.39.52:947][740]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2021.07.21-21.39.52:947][740]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2021.07.21-21.39.52:947][740]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2021.07.21-21.39.52:947][740]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2021.07.21-21.39.52:947][740]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2021.07.21-21.39.52:947][740]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2021.07.21-21.39.52:947][740]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2021.07.21-21.39.52:948][740]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module Core (216)
+[2021.07.21-21.39.52:949][740]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2021.07.21-21.39.52:950][740]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2021.07.21-21.39.52:950][740]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2021.07.21-21.39.52:950][740]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2021.07.21-21.39.52:950][740]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2021.07.21-21.39.52:950][740]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2021.07.21-21.39.52:951][740]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2021.07.21-21.39.52:952][740]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2021.07.21-21.39.52:952][740]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2021.07.21-21.39.52:952][740]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2021.07.21-21.39.52:952][740]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2021.07.21-21.39.52:952][740]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2021.07.21-21.39.52:952][740]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2021.07.21-21.39.52:952][740]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2021.07.21-21.39.52:952][740]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2021.07.21-21.39.52:952][740]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2021.07.21-21.39.52:952][740]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2021.07.21-21.39.52:953][740]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2021.07.21-21.39.52:956][740]LogHMD: Freeing OpenVRDLLHandle.
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.07.21-21.39.52:956][740]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.07.21-21.39.52:957][740]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.07.21-21.39.52:957][740]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.07.21-21.39.52:968][740]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.07.21-21.39.52:968][740]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.07.21-21.39.52:968][740]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E58C4B4-48B0-24CD-7ED2-6892CE1CFCF6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=81d0c54743a16aa9566f879074216410%7Ca44c377d48df4d2898686a036ea09c60%7C79df2682-0ead-4dc6-b896-32e6371be72d&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.07.21-21.39.52:986][740]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.07.21-21.39.52:986][740]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.07.21-21.39.52:988][740]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.07.21-21.39.52:989][740]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.07.21-21.39.52:989][740]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.07.21-21.39.52:989][740]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.07.21-21.39.52:989][740]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.07.21-21.39.52:990][740]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.07.21-21.39.52:990][740]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.07.21-21.39.52:991][740]LogD3D11RHI: Shutdown
+[2021.07.21-21.39.52:991][740]LogD3D11RHI: CleanupD3DDevice
+[2021.07.21-21.39.53:013][740]LogExit: Exiting.
+[2021.07.21-21.39.53:031][740]Log file closed, 07/21/21 22:39:53
